@@ -1,0 +1,22 @@
+[
+  { "id": "f1", "title": "Circle Carrom", "tileUrl": "https://picsum.photos/seed/circlecarrom/300", "category": "featured", "route": "Game", "tags": ["hot"] },
+  { "id": "f2", "title": "Bubble Shooter", "tileUrl": "https://picsum.photos/seed/bubbleshooter/300", "category": "featured", "route": "Game" },
+  { "id": "f3", "title": "Snake Rush", "tileUrl": "https://picsum.photos/seed/snakerush/300", "category": "featured", "route": "Game", "tags": ["new"] },
+  { "id": "f4", "title": "Match 3D", "tileUrl": "https://picsum.photos/seed/match3d/300", "category": "featured", "route": "Game" },
+  { "id": "f5", "title": "Tap-Tap", "tileUrl": "https://picsum.photos/seed/taptap/300", "category": "featured", "route": "Game" },
+  { "id": "f6", "title": "Block Smasher", "tileUrl": "https://picsum.photos/seed/blocksmasher/300", "category": "featured", "route": "Game" },
+
+  { "id": "c1", "title": "Cricket", "tileUrl": "https://picsum.photos/seed/cricket/300", "category": "cricket", "route": "Game", "tags": ["live"] },
+  { "id": "c2", "title": "Stump It", "tileUrl": "https://picsum.photos/seed/stumpit/300", "category": "cricket", "route": "Game" },
+  { "id": "c3", "title": "Fantasy War", "tileUrl": "https://picsum.photos/seed/fantasywar/300", "category": "cricket", "route": "Game" },
+  { "id": "c4", "title": "Powerplay", "tileUrl": "https://picsum.photos/seed/powerplay/300", "category": "cricket", "route": "Game" },
+  { "id": "c5", "title": "Super Over", "tileUrl": "https://picsum.photos/seed/superover/300", "category": "cricket", "route": "Game" },
+  { "id": "c6", "title": "Spin Bowl", "tileUrl": "https://picsum.photos/seed/spinbowl/300", "category": "cricket", "route": "Game" },
+
+  { "id": "s1", "title": "Archery", "tileUrl": "https://picsum.photos/seed/archery/300", "category": "sports", "route": "Game" },
+  { "id": "s2", "title": "Pool 3D", "tileUrl": "https://picsum.photos/seed/pool3d/300", "category": "sports", "route": "Game", "tags": ["3d"] },
+  { "id": "s3", "title": "Carrom", "tileUrl": "https://picsum.photos/seed/carrom/300", "category": "sports", "route": "Game" },
+  { "id": "s4", "title": "Football Freekick", "tileUrl": "https://picsum.photos/seed/freekick/300", "category": "sports", "route": "Game" },
+  { "id": "s5", "title": "Freestyle Carrom", "tileUrl": "https://picsum.photos/seed/freestylecarrom/300", "category": "sports", "route": "Game" },
+  { "id": "s6", "title": "Tennis Goons", "tileUrl": "https://picsum.photos/seed/tennisgoons/300", "category": "sports", "route": "Game" }
+]
