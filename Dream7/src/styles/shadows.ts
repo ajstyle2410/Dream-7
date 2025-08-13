@@ -17,10 +17,12 @@ const iosShadow = (level: ShadowLevel): ViewStyle => IOS_SHADOWS[level];
 const androidShadow = (level: ShadowLevel): ViewStyle => ({ elevation: level });
 
 export const shadow = (level: ShadowLevel = 2): ViewStyle => {
+  // Explicitly parameterize select with ViewStyle so both branches unify.
   const style = Platform.select<ViewStyle>({
     ios: iosShadow(level),
     android: androidShadow(level),
     default: {},
   });
+  // style is never undefined because we provide "default"
   return style as ViewStyle;
 };
